@@ -10,7 +10,7 @@ In case the data is pushed to the recipient, the frequency, grouping, and maxima
 
 Comparison of the kl-gateway/kl-gateway-municipality-care-data implementation guides and this guide:
 
-Differences in this implementation guide
+Changes made to this implementation guide
 - CareCitizensOwnObservation profile is not included
 - CareGoal profile is not included
 - CareCondition.code only allows nursing conditions
