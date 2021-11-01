@@ -1,4 +1,4 @@
-__Note__ this implementation guide is restricted to helthcare data only.
+__Note__ this implementation guide is restricted to healthcare data only.
 
 This implementation guide describes the content of the reporting of healthcare data from KL Gateway to other authorities at a national level, i.e. Sundhedsdatastyrelsen (SDS). This implementation guide defines the profiles of the resources that one can receive from the gateway provided that one is only allowed to receive healtcare data and not care data according to "serviceloven".
 
